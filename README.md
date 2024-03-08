@@ -1,16 +1,33 @@
 # multi_language_provider
 
-A new Flutter project.
+## Overview
+This Flutter repository demonstrates the implementation of a multi-language supported app using Flutter, Provider state management, and the intl package for localization. The app supports multiple languages, including Hindi, English, and Spanish. Users can easily switch between languages using a dropdown menu on the home screen.
 
-## Getting Started
+## Features
+Multi-language support: The app is available in Hindi, English, and Spanish.
+Provider State Management: Utilizes the Provider package for efficient state management.
+Localization: Implements Flutter's intl package for easy localization of the app.
+Dropdown Language Selector: A user-friendly dropdown menu on the home screen for selecting the preferred language.
+Shared Preferences: The selected language is stored using the Shared Preferences package for persistent language preference.
 
-This project is a starting point for a Flutter application.
+## Technologies Used
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter: A cross-platform framework for building mobile apps
+- Provider: A state management package for Flutter
+- intl: For internationalize the whole app in multi language
+- shared preference : to store selected or change language 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:https://github.com/bunty-kumar/flutter_quotes.git
+2. Change to the project directory.
+3. Install dependencies.
+4. Run the app.
+
+## Credits
+
+This app was developed by Bunty kumar(Android/Flutter Developer).
+
+## License
+
+This project is licensed under the [Bunty Kumar] (LICENSE).
