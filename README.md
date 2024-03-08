@@ -14,12 +14,12 @@ Shared Preferences: The selected language is stored using the Shared Preferences
 
 - Flutter: A cross-platform framework for building mobile apps
 - Provider: A state management package for Flutter
-- intl: For internationalize the whole app in multi language
-- shared preference : to store selected or change language 
+- intl: To internationalize the whole app in multi-language
+- shared preference: to store selected or change language 
 
 ## Installation
 
-1. Clone the repository:https://github.com/bunty-kumar/flutter_quotes.git
+1. Clone the repository:https://github.com/bunty-kumar/multi_language_provider.git
 2. Change to the project directory.
 3. Install dependencies.
 4. Run the app.
