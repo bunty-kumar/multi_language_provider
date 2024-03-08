@@ -1,0 +1,9 @@
+{
+  "title": "Aplicación multilingüe",
+  "description": "Esta es una aplicación compatible con varios idiomas desarrollada con intl y proveedor.",
+  "loginTitle": "Bienvenido de nuevo",
+  "loginDesc": "Bienvenido de nuevo. Inicie sesión para continuar usando la aplicación",
+  "emailHint": "Ingrese correo electrónico",
+  "passwordHint": "Introducir la contraseña",
+  "loginBtnTxt": "Iniciar sesión"
+}

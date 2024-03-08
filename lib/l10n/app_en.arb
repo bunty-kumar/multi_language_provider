@@ -1,0 +1,9 @@
+{
+  "title": "Multi Language App",
+  "description": "This is a multi language supported app developed using intl and provider",
+  "loginTitle": "Welcome Back",
+  "loginDesc": "Welcome BackPlease Login to Continue using the app",
+  "emailHint": "Enter email",
+  "passwordHint": "Enter Password",
+  "loginBtnTxt": "Login"
+}
